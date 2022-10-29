@@ -1,0 +1,66 @@
+/**
+* @name RoundedCorners
+* @author Peti#5765
+* @version 1.0
+* @description Discord theme with rounded corners
+* @source
+* @updateUrl
+*/
+
+.base-2jDfDU > .notice-2HEN-u{
+    border-radius: 8px 8px 8px 8px !important;
+    margin-bottom: 0px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.base-2jDfDU > div:last-child > div:first-child {
+    border-radius: 8px 8px 8px 8px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+    margin-right: 7px;
+}
+.base-2jDfDU > div:last-child > div:last-child {
+    border-radius: 8px 8px 8px 8px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.base-2jDfDU > div:last-child > .chat-2ZfjoI {
+    border-radius: 8px 8px 8px 8px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.wrapper-2RrXDg{
+    border: 0px;
+}
+.applicationStore-2nk7Lo{
+    border-radius: 8px 8px 8px 8px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.auto-2K3UW5::-webkit-scrollbar-track{
+    background-color: #ffffff00;
+}
+.tabBody-2dgbAs::before{
+    height: 0;
+}
+.headerBar-1dSpQr::before{
+    height: 1px;
+}
+.resizeHandle-PBRzPC{
+    width: 0px;
+}
+.container-2cd8Mz{
+    border-radius: 8px 8px 8px 8px;
+    margin-right: 7px;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+.container-3XgAHv{
+    border-radius: 0px 8px 8px 0px;
+}
+.scroller-2MALzE videoGrid-1tZm-F thin-31rlnD scrollerBase-_bVAAt fade-1R6FHN{
+    border-radius: 0px;
+}
