@@ -59,7 +59,13 @@
     margin-top: 7px;
 }
 .container-3XgAHv{
-    border-radius: 0px 8px 8px 0px;
+    border-radius: 0px 8px 0px 0px;
+}
+.channelChatWrapper-35N3nR{
+    --background-primary: hsl(220,calc(var(--saturation-factor, 1)*7.7%),0%);
+}
+.container-3XgAHv{
+    --background-primary: hsl(220,calc(var(--saturation-factor, 1)*7.7%),0%);
 }
 .wrapper-1gVUIN.chatSidebarOpen--YCxhs .callContainer-HtHELf{
     border-radius: 0 0 0 0;
