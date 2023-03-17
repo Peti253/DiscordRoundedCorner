@@ -114,3 +114,10 @@
 .base-2jDfDU{
     background: var(--bg-overlay-4,var(--background-tertiary));;
 }
+.sidebar-1tnWFu{
+    background: var(--bg-overlay-3,var(--background-secondary));
+}
+.scroller-3j5xK2{
+    background: var(--bg-overlay-2,var(--__header-bar-background));
+    border-radius: 8px 8px 8px 8px;
+}
