@@ -1,5 +1,6 @@
 # DiscordRoundedCorner
 ### Discord theme for BetterDiscord with rounded corners
+####Finally updated to work with current discord versions!
 
 ![screenshot](screenshot.png)
 
