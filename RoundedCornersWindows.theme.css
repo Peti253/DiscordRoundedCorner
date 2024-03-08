@@ -144,7 +144,7 @@
 }
 .form__13a2c{
   margin-right: 8px;
-  margin-bottom: -14px;
+  margin-bottom: 0px;
 }
 .channelChatWrapper__3e57d{
   background:var(--bg-overlay-app-frame,var(--background-tertiary));
@@ -155,4 +155,8 @@
 .notice__5fd4c{
   margin: 0px 8px 8px 0px;
   border-radius: 8px;
+}
+
+.animatedContainer__341f6{
+  border-radius: 8px 8px 0px 0px;
 }
