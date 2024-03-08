@@ -1,0 +1,158 @@
+/**
+* @name RoundedCorners
+* @author Peti#5765
+* @version 2.0
+* @description Discord theme with rounded corners
+* @source https://github.com/Peti253/DiscordRoundedCorner
+* @updateUrl https://github.com/Peti253/DiscordRoundedCorner/blob/main/RoundedCorners.theme.css
+*/
+
+.sidebar_ded4b5{
+  background: transparent;
+  margin: 0px 8px 8px 0px;
+}
+.container_ca50b9 {
+  border-radius: 0px 0px 8px 8px;
+}
+.sidebar_ded4b5 nav, .sidebar_ded4b5 section, .sidebar__9e3e2 nav, .sidebar__9e3e2 section {
+  border-radius: 8px 8px 0px 0px;
+}
+.sidebar_ded4b5 nav .scroller-1ox3I2, .sidebar_ded4b5 section .scroller-1ox3I2, .sidebar__9e3e2 nav .scroller-1ox3I2, .sidebar__9e3e2 section .scroller-1ox3I2 {
+  border-radius: 8px;
+}
+.sidebar_ded4b5 nav + section, .sidebar__9e3e2 nav + section {
+  margin-top: 0px;
+  border-radius: 0px 0px 8px 8px;
+}
+.sidebar_ded4b5 section.panels__58331 .avatarWrapper_ba5175, .sidebar__9e3e2 section.panels__58331 .avatarWrapper_ba5175 {
+  border-radius: 8px 8px 8px 8px;
+}
+.sidebar_ded4b5 .containerDefault__3187b .wrapper__7bcde, .sidebar__9e3e2 .containerDefault__3187b .wrapper__7bcde {
+  overflow: hidden;
+  border-radius: 8px;
+}
+.sidebar_ded4b5 .channel_c21703 .interactive__776ee, .sidebar__9e3e2 .channel_c21703 .interactive__776ee {
+  border-radius: 8px;
+}
+.container_b2ce9c .membersWrap__90226 .members__9f47b, .membersWrap__90226 .members__9f47b {
+  border-radius: inherit;
+}
+.container_b2ce9c .membersWrap__90226 .layout_bb8e67, .membersWrap__90226 .layout_bb8e67 {
+  position: relative;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.searchResultsWrap-5RVOkx {
+  border-radius: 8px;
+  margin: 0 8px 8px 0;
+}
+.container-3XgAHv section.container-1RZJZM[aria-label="Create Thread"] .container-ZMc96U {
+  margin: 8px 8px 8px 0;
+}
+.container__11d72.themed_b152d4 {
+  border-radius: 8px 8px 0px 0px;
+}
+.container__11d72.themed_b152d4.title_b7d661[aria-label="Channel header"] .children__32014 {
+  background: #1b1b1b;
+  padding: 0 8px;
+  border-radius: 8px 0 0 8px;
+}
+
+.container__11d72.themed_b152d4.title_b7d661[aria-label="Channel header"] .toolbar__88c63 {
+  background: transparent;
+  border-radius: 0 8px 8px 0;
+}
+
+.container__11d72.themed_b152d4.title_b7d661[aria-label="Channel header"] .toolbar__88c63 .icon__88ea8, .container__11d72.themed_b152d4.title_b7d661[aria-label="Channel header"] .toolbar__88c63 .iconWrapper_af9215[aria-label="Start Voice Call"] {
+  padding-left: 16px !important;
+  border-radius: 8px 0 0 8px;
+}
+
+.container__11d72.themed_b152d4.title_b7d661[aria-label="Channel header"] .toolbar__88c63 .anchor_c8ddc0 .iconWrapper_af9215 {
+  padding-right: 16px;
+  border-radius: 0 8px 8px 0;
+}
+
+.messagesWrapper_ea2b0b {
+  margin: 0px 8px 8px 8px;
+  border-radius: 8px;
+}
+.messagesWrapper_ea2b0b .buttonContainer_dd4b62 .wrapper_c727b6 {
+  border-radius: 8px;
+}
+.messagesWrapper_ea2b0b ol li .message-2CShn3 .embedWrapper-1MtIDg, .messagesWrapper_ea2b0b ol li .message-2CShn3 .container-2sjPya .wrapper-1HIH0j {
+  border-radius: 8px;
+}
+[role=dialog][aria-label="User Profile Modal"] .root-8LYsGj {
+  border-radius: 8px;
+}
+[role=dialog][aria-label="User Profile Modal"] .root-8LYsGj .connectedAccount-1xKpli {
+  border-radius: 8px;
+}
+.container-2McqkF[role=listbox] {
+  transform: translateX(-85px);
+  border-radius: 8px;
+}
+
+.membershipDialog-2wAdpQ {
+  border-radius: 8px;
+}
+.guilds__2b93a.wrapper_a7e7a8 {
+  margin: 8px 0px 0px 0px;
+  background-color: transparent;
+}
+.applicationStore-2nk7Lo {
+  margin: 8px 8px 8px 0;
+  border-radius: 8px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 4px 2px;
+}
+.container__5c7e7{
+  border-radius: 8px;
+  margin: 0px 8px 8px 0px;
+}
+.container__5c7e7 .nowPlayingColumn_f5023f {
+  margin: 0 8px 8px 0;
+  background-color: unset;
+}
+.container__5c7e7 .peopleColumn__51df3 {
+  margin: 8px 8px 8px 8px;
+  border-radius: 8px;
+}
+.form-3gdLxP, .form__13a2c {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr minmax(min-content, max-content);
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0;
+  margin-bottom: 9px;
+  margin-left: 9px;
+}
+.form-3gdLxP .wrapper_fbbb73, .form__13a2c .wrapper_fbbb73 {
+  border-radius: 12px;
+  max-width: calc(100% - 10px);
+  margin-right: 0;
+  margin-top: 9px;
+  margin-bottom: auto;
+}
+.chat__52833{
+  margin: 0px 8px 8px 0px;
+  border-radius: 8px;
+}
+.resizeHandle_f1a098{
+  background: transparent/*var(--bg-overlay-app-frame,var(--background-tertiary))*/;
+}
+.form__13a2c{
+  margin-right: 8px;
+  margin-bottom: -14px;
+}
+.channelChatWrapper__3e57d{
+  background:var(--bg-overlay-app-frame,var(--background-tertiary));
+}
+.wrapper_bd2abe /*noChat_ce920d video__85ac2 chatSidebarOpen_dfaa6a*/{
+  background: var(--bg-overlay-app-frame,var(--background-tertiary));
+}
+.notice__5fd4c{
+  margin: 0px 8px 8px 0px;
+  border-radius: 8px;
+}
