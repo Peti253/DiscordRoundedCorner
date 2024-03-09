@@ -27,10 +27,6 @@
 .sidebar_ded4b5 section.panels__58331 .avatarWrapper_ba5175, .sidebar__9e3e2 section.panels__58331 .avatarWrapper_ba5175 {
   border-radius: 8px 8px 8px 8px;
 }
-.sidebar_ded4b5 .containerDefault__3187b .wrapper__7bcde, .sidebar__9e3e2 .containerDefault__3187b .wrapper__7bcde {
-  overflow: hidden;
-  border-radius: 8px;
-}
 .sidebar_ded4b5 .channel_c21703 .interactive__776ee, .sidebar__9e3e2 .channel_c21703 .interactive__776ee {
   border-radius: 8px;
 }
@@ -160,3 +156,5 @@
 .animatedContainer__341f6{
   border-radius: 8px 8px 0px 0px;
 }
+.unread__48cf4{
+  margin: -4px 0px 0px 0px;
